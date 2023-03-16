@@ -28,6 +28,6 @@ This project was created by Ibrahim Kalam using Codecademy.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 ----------
