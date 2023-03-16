@@ -13,7 +13,7 @@ To view the website, simply open the `index.html` file in your web browser.
 
 css
 
-`/Travelling
+/Travelling
 ├── index.html
 └── resources
     ├── css
@@ -22,7 +22,8 @@ css
 	    ├──camp.jpg
 	    └──phone.png
     └── videos
-	    └──excursion.mp4`
+	    └──excursion.mp4
+
 
 
 ## Features
