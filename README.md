@@ -13,16 +13,16 @@ To view the website, simply open the `index.html` file in your web browser.
 
 css
 
-/Travelling
-├── index.html
-└── resources
-    ├── css
-	    └──style.css
-    ├── images
-	    ├──camp.jpg
-	    └──phone.png
-    └── videos
-	    └──excursion.mp4
+/Travelling	
+├── index.html	
+└── resources	
+    ├── css	
+	    └──style.css	
+    ├── images	
+	    ├──camp.jpg	
+	    └──phone.png	
+    └── videos	
+	    └──excursion.mp4	
 
 
 
